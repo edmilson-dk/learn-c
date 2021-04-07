@@ -1,6 +1,6 @@
 # Learninn C language
 
-![C language]()
+![C language](https://github.com/edmilson-dk/learn-c/blob/main/.github/c.png)
 
 For the sake of study, I will document here my advances and exercises in C language studies.
 
@@ -10,4 +10,4 @@ My central objective to study the C language, is only in the question of studyin
 
 ## Results of the studies
 
-* [Day 01]()
+* [Day 01](https://github.com/edmilson-dk/learn-c/blob/main/day-01)
