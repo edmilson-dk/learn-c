@@ -11,3 +11,4 @@ My central objective to study the C language, is only in the question of studyin
 ## Results of the studies
 
 * [Day 01](https://github.com/edmilson-dk/learn-c/blob/main/day-01)
+* [Day 02](https://github.com/edmilson-dk/learn-c/blob/main/day-02)
