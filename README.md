@@ -12,3 +12,4 @@ My central objective to study the C language, is only in the question of studyin
 
 * [Day 01](https://github.com/edmilson-dk/learn-c/blob/main/day-01)
 * [Day 02](https://github.com/edmilson-dk/learn-c/blob/main/day-02)
+* [Day 03](https://github.com/edmilson-dk/learn-c/blob/main/day-03)
